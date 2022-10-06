@@ -1,3 +1,3 @@
 ﻿# vogon-test
 This is a test.
-Hello world! I’m using Git.
+Hello World! I’m using git.
